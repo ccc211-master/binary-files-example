@@ -1,0 +1,5 @@
+Soap 10 10 14 0.75
+Shampoo 12 10 10 1.15
+Stapler 11 5 8 1.55
+Converter 8 10 15 21.99
+SpaceShip 10 15 22 16.98
